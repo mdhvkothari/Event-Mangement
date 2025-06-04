@@ -23,4 +23,4 @@ Interactive API docs are available at `/docs` using Swagger UI.
 
 
 ## ER Diagram
-![ER Diagram](https://drive.google.com/file/d/1g3mQBoEsa94H1ixyGho8nMb_jKeK2eZ-/view?usp=sharing)
+![ER Diagram](https://github.com/user-attachments/assets/0d9636e2-d1c5-4459-8feb-77e281a28580)
