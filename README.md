@@ -19,7 +19,7 @@ A Django REST Framework-based API for managing events and attendees.
 
 ## API Documentation
 
-Interactive API docs are available at `/docs` using Swagger UI.
+Interactive API docs are available at `/swagger` using Swagger UI.
 
 
 ## ER Diagram
